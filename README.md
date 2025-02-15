@@ -1,1 +1,1 @@
-
+An AI-powered code editor with intelligent autocompletion, error detection, and code optimization features. It enhances developer productivity using machine learning for real-time code suggestions and debugging.
